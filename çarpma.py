@@ -1,2 +1,2 @@
- def çarpma(x,y):
+ def carpma(x,y):
     return x*y
